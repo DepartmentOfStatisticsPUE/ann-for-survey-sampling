@@ -11,13 +11,13 @@
 The respository contains the following notebooks reflecting the structure of the paper
 
 1. Simulation 1: Properties of approximate nearest neighbours methods for imputation
-  + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DepartmentOfStatisticsPUE/ann-for-survey-sampling/blob/main/notebooks/ann_paper_sim_study_1.ipynb)
+  + [![Simulation 1 -- Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DepartmentOfStatisticsPUE/ann-for-survey-sampling/blob/main/notebooks/ann_paper_sim_study_1.ipynb)
   + This repo: 
 2. Simulation 2: Approximate nearest neighbours for imputation and creation of imputation classes
-  + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DepartmentOfStatisticsPUE/ann-for-survey-sampling/blob/main/notebooks/ann_paper_sim_study_1.ipynb)
+  + [![Simulation 2 -- Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DepartmentOfStatisticsPUE/ann-for-survey-sampling/blob/main/notebooks/ann_paper_sim_study_1.ipynb)
   + This repo: 
 3. Simulation 3: Approximate nearest neighbours for data integration
-  + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DepartmentOfStatisticsPUE/ann-for-survey-sampling/blob/main/notebooks/ann_paper_sim_study_1.ipynb)
+  + [![Simulation 3 -- Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DepartmentOfStatisticsPUE/ann-for-survey-sampling/blob/main/notebooks/ann_paper_sim_study_1.ipynb)
   + This repo
 
 ## Contact
